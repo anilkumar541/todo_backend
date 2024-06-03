@@ -126,3 +126,5 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5173",
     "https://effortless-unicorn-fe58c0.netlify.app"
 ]
+
+CORS_ALLOW_ALL_ORIGINS = True
